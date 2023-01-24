@@ -22,11 +22,11 @@ git clone https://github.com/abdulazizaziz/Social-site-Django.git
 virtualenv ./venv
 ```
 4. To Start using virtual environment, you need to activate it by running activate script:
-  linux
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; linux
 ```bash
-  source venv/bin/activate.
+  source venv/bin/activate
 ```
-  windows
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; windows
 ```bash
-  venv\Scripts\activate.
+  venv\Scripts\activate
 ```
